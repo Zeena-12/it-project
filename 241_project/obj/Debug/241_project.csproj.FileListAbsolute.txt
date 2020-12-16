@@ -1,0 +1,14 @@
+C:\Users\Zainah\source\repos\241_project\241_project\bin\Debug\241_project.exe.config
+C:\Users\Zainah\source\repos\241_project\241_project\bin\Debug\241_project.exe
+C:\Users\Zainah\source\repos\241_project\241_project\bin\Debug\241_project.pdb
+C:\Users\Zainah\source\repos\241_project\241_project\obj\Debug\241_project.csprojAssemblyReference.cache
+C:\Users\Zainah\source\repos\241_project\241_project\obj\Debug\_241_project.Form1.resources
+C:\Users\Zainah\source\repos\241_project\241_project\obj\Debug\_241_project.mainForm.resources
+C:\Users\Zainah\source\repos\241_project\241_project\obj\Debug\_241_project.Properties.Resources.resources
+C:\Users\Zainah\source\repos\241_project\241_project\obj\Debug\_241_project.registerForm.resources
+C:\Users\Zainah\source\repos\241_project\241_project\obj\Debug\241_project.csproj.GenerateResource.cache
+C:\Users\Zainah\source\repos\241_project\241_project\obj\Debug\241_project.csproj.CoreCompileInputs.cache
+C:\Users\Zainah\source\repos\241_project\241_project\obj\Debug\241_project.exe
+C:\Users\Zainah\source\repos\241_project\241_project\obj\Debug\241_project.pdb
+C:\Users\Zainah\source\repos\241_project\241_project\bin\Debug\dbtest.mdf
+C:\Users\Zainah\source\repos\241_project\241_project\bin\Debug\dbtest_log.ldf
